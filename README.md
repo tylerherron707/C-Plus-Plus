@@ -1,2 +1,2 @@
 # C-Plus-Plus
-Coding with c++ at home
+Coding with C++ at home
